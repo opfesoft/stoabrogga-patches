@@ -1,4 +1,4 @@
-# Stoabrogga's patches
+# Stoabrogga's patches<br>(Discontinued as of 2024-07-29)
 
 Client experimentation; meant to be used together with [mod-stoabrogga](https://gitlab.com/opfesoft/mod-stoabrogga).
 
